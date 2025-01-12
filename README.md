@@ -1,6 +1,7 @@
 # Memories Photo Frame Prototype
 
 <p>First time learning using HTML5 Canvas in React</p>
+<p>Soon it will become a proper web application with current tech stacks like Nextjs, Expressjs, Typescript, and more</p>
 In here I don't manually do it from scratch. I'm using one of React Library called Konva
 https://konvajs.org/docs/react/Intro.html
 
